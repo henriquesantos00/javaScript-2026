@@ -12,6 +12,6 @@ function calculaIMC(peso,altura){
         console.log("Classificação: Obesidade");
     }
 }
-calculaIMC(100, 200);
+calculaIMC(52, 1,62);
 
     
